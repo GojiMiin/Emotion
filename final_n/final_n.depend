@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527168201 source:c:\users\goji\desktop\proj\ver_3_n\main_normal.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	"class.h"
+
+1527167959 c:\users\goji\desktop\proj\ver_3_n\class.h
+	<iostream>
+

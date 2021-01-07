@@ -1,0 +1,4 @@
+sad 10
+stress 52
+happy 52
+angry 50
